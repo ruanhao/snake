@@ -1,5 +1,5 @@
 Snake
-======
+=====
 
 Purpose
 -------
@@ -7,7 +7,7 @@ Just for fun
 
 Version
 -------
-0.1.0
+0.2.0
 
 Feature
 -------
@@ -19,14 +19,13 @@ Install sample/snake.apk on your Android phone
 
 Sample
 ------
-![snake][1]
-![snake][2]
+![sample][1]
 
 Acknowledge
 -----------
 All friends whom i persuade to install this apk on their phones
 
 
-  [1]:  https://raw.github.com/ruanhao/snake/master/sample/snake1.png
-  [2]:  https://raw.github.com/ruanhao/snake/master/sample/snake2.png
+  [1]:  https://raw.github.com/ruanhao/snake/master/sample/sample.png
 
+  
